@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <bits/stdc++.h>
 void main()
 {
     printf("Eshank Jain 1000014017\n");
